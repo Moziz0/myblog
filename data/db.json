@@ -1,12 +1,6 @@
 {
   "blogs": [
     {
-      "id": "1",
-      "title": "Web Developer",
-      "author": "Samson",
-      "body": "Contrary to popular belief about"
-    },
-    {
       "id": "2",
       "title": "The Goat",
       "author": "J.Muthoke",
